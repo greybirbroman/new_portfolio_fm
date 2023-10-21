@@ -21,6 +21,25 @@ export const socials = [
   },
 ];
 
+export const contacts = [
+  {
+    id: 1,
+    title: 'Mail',
+    span: 'mailto:rfedorov.work@gmail.com'
+  },
+  {
+    id: 2,
+    title: 'Address',
+    span: 'Saint-Petersburg, Russia'
+  },
+  {
+    id: 3,
+    title: 'Phone',
+    span: '+7 921 905 0533'
+  },
+
+]
+
 export const navigationLinks = [
     {
         link: '#homepage',

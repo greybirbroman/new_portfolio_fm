@@ -3,6 +3,8 @@ import { Logo } from './Logo'
 import { Sidebar } from './Sidebar'
 import { CustomLink } from './CustomLink'
 import { ProjectCard } from './ProjectCard'
+import { Input } from './Input'
+import { Cursor } from './Cursor'
 
 
 export {
@@ -10,5 +12,6 @@ export {
     Navigation,
     Logo,
     CustomLink,
-    ProjectCard
+    ProjectCard,
+    Input
 }
